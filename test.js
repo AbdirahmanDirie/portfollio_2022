@@ -1,4 +1,5 @@
-//test with js 
+//Hello JS
 console.log("test with js");
 
-console.log("Will write a cool code")
+//Hello TS
+console.log("test with ts")
