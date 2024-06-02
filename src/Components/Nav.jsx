@@ -1,5 +1,4 @@
 import React from 'react'
-import { MenuAlt3Icon} from '@heroicons/react/solid'
 
 const Nav = () => {
   return (
@@ -12,7 +11,7 @@ const Nav = () => {
             {/* menu */}
             <div className='flex '>
 
-              <div className='flex mr-24 text-white my-4 hidden'>
+              <div className='flex mr-24 text-white my-4'>
                   <p className='text-mD uppercase font-semibold mx-5 cursor-pointer'>home</p>
                 <p className='text-mD uppercase font-semibold mx-5 cursor-pointer'>services</p>
                 <p className='text-mD uppercase font-semibold mx-5 cursor-pointer'>About</p>

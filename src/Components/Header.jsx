@@ -1,5 +1,4 @@
 import React from 'react'
-import { MenuAlt3Icon} from '@heroicons/react/solid'
 
 const Header = () => {
   return (
@@ -18,7 +17,7 @@ const Header = () => {
             {/* image */}
             <div className='flex justify-center items-center sm:mt-12 mt-10' >
 
-                <img src={require('../img/dirie.png')} className="w-96 h-auto" />
+                <img src={require('../img/dirie.png')} className="w-96 h-auto" alt='test' />
                 
             </div>
         </div>
